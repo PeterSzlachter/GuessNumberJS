@@ -1,0 +1,44 @@
+html, body {
+  background-color: #1F2023;
+  min-width: 500px;
+}
+
+header {
+  color: #FFBF00;
+  text-align: center;
+  font-size: 3em;
+  font-family: cursive;
+}
+
+#instructions {
+  color: white;
+}
+
+.instruction {
+  padding: 15px;
+  margin: 10px 0;
+}
+
+.plus {
+  background-color: #f67280;
+}
+
+.moins {
+  background-color: #ffa372;
+}
+
+.fini {
+  background-color : #0c9463;
+}
+.home{
+  position: absolute;
+  left:0;
+  top:0;
+  padding: 40px 100px;
+  color: white;
+  font-size: 0.7em;
+}
+.home:hover{
+  text-decoration: none; 
+  color:#FFBF00;
+}
